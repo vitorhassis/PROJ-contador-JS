@@ -1,4 +1,4 @@
-# <h2 align="center">🔢 Contador</h2>
+# <h2 align="center">🔢 Contador 🔢</h2>
 
 <p align="center">
   🚀 Projeto que gera uma <strong>sequência numérica</strong> com base nos valores fornecidos pelo usuário.  
