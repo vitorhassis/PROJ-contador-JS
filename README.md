@@ -11,7 +11,7 @@
 
 ---
 
-## 📷 Demonstração  
+<h2 align="center">📷 Demonstração 📷</h2> 
 
 <div align="center">
   <img height="350" src="https://github.com/user-attachments/assets/6ae12cba-ed81-4717-943e-858a9b1d165a" />
